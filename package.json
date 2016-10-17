@@ -1,0 +1,25 @@
+{
+  "name": "pizzaorder-chatbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lintaba",
+  "license": "ISC",
+  "homepage": "https://github.com/lintaba/pizzaorder-chatbot#readme",
+
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "claudia-bot-builder": "^2.0.0",
+    "filejson": "^1.0.9",
+    "huh": "^1.1.4",
+    "lodash": "^4.16.4",
+    "messenger-bot": "^2.3.0",
+    "sleep": "^4.0.0"
+  }
+}

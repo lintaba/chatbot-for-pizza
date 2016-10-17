@@ -1,0 +1,8 @@
+{
+  "bot":{
+  	"token": "APP_TOKEN",
+	"verify": "CUSTOM_VERIFICATION_TOKEN",
+	"app_secret": "APP_SECRET"
+  },
+  "port":5555
+}
