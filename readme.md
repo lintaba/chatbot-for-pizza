@@ -1,7 +1,7 @@
 # FinTech pizza order & maker chatbot
 
 
-This project was made for the 2th FinTech Adrian hackathlon in 2016 oct 15-16.
+This project was made for the 2nd FinTech Adrian hackathlon in 2016 oct 15-16.
 Made by @lintaba, and the team of the wookies.
  Organized in Slovenia by Halcom, and many sponsors.
 
@@ -29,9 +29,8 @@ npm install
 
 
 ## Usage
- * Follow the instructions from [messenger-bot]{https://github.com/remixz/messenger-bot}
+ * Follow the instructions from [messenger-bot](https://github.com/remixz/messenger-bot)
  * Configure config.json with the necesery tokens and ports
- * Set it up to accept the facebook url hooks. (We used [localtunnel]{http://google.com/search?q=localtunnel},
+ * Set it up to accept the facebook url hooks. (We used [localtunnel](http://google.com/search?q=localtunnel),
    but it can also be deployed eg. to the cloud.)
  * When the linking to facebook is ready, you can write to the bot, and it will respond with *Welcome*.
-
